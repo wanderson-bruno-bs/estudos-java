@@ -22,5 +22,7 @@ public class Main {
             Arrays.sort(my_array2);
             System.out.println("Array 2 Em ordem" + Arrays.toString(my_array2));
 
+        // Estudos sobre Arrays em Java
+
     }
 }
